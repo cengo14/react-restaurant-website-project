@@ -2,7 +2,7 @@
 
 Bu proje, **React** kullanılarak geliştirilmiş, **CSS** ve **Bootstrap** ile tasarlanmış, **Material UI** ikonları ile zenginleştirilmiş ve **React Router DOM** ile çok sayfalı olarak hazırlanmış bir burger restoran web sitesidir. Web sitesi, mobil cihazlar da dahil olmak üzere her ekranda mükemmel bir kullanıcı deneyimi sunacak şekilde **responsive** olarak tasarlanmıştır.
 
-## Ekran Görüntüsü
+## 🖼️ Ekran Görüntüsü
 ![RestaurantWebsitesi](desktop.gif)
 
 ## 🚀 Proje Hakkında
